@@ -6,7 +6,7 @@ import {
 	addItem,
 	removeItem,
 } from '../../redux/cart/cart.actions';
-import CartItem from '../cart-item/cart-item.component';
+//import CartItem from '../cart-item/cart-item.component';
 
 import './checkout-item.styles.scss';
 
